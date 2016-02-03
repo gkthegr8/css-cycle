@@ -1,0 +1,7 @@
+tmp/
+
+.rvmrc
+.ruby-*
+
+_site
+.sass-cache
